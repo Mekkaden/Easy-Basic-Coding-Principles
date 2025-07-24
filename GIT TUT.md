@@ -1,4 +1,4 @@
-s🧠 What actually happened here step-by-step:
+
 📦 1. git add .
 
     This means: "Track all the changes in the current directory (and subdirectories)."
