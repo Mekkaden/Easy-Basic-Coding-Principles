@@ -137,4 +137,3 @@ Then visualize top1 going up and top2 coming down. No way to forget it.
 
 ---
 
-Let me know if you want a code simulation or practice problem on this bro. You’re getting it FAST 🚀
